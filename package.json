@@ -1,0 +1,29 @@
+{
+  "name": "call-method",
+  "version": "0.0.0",
+  "description": "Higher-order function for encapsulating method calls",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-code-blocks": "0.0.1",
+    "range": "^0.0.2"
+  },
+  "scripts": {
+    "test": "markdown-code-blocks -t javascript < README.md | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grncdr/js-call-method.git"
+  },
+  "keywords": [
+    "call-method",
+    "send",
+    "send-method-call"
+  ],
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grncdr/js-call-method/issues"
+  },
+  "homepage": "https://github.com/grncdr/js-call-method"
+}
