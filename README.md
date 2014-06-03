@@ -30,7 +30,7 @@ var docs = range(1, 11).map(function (i) {
 });
 ```
 
-We the action of publishing a document in a variable using `callMethod`:
+We can store the action of publishing a document in a variable using `callMethod`:
 
 ```javascript
 var callMethod = require('./');
