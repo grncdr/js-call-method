@@ -1,6 +1,6 @@
 {
   "name": "call-method",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Higher-order function for encapsulating method calls",
   "main": "index.js",
   "dependencies": {},
